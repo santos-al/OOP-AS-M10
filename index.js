@@ -1,4 +1,4 @@
-const CreateShape = require('createShape.js');
+const CreateShape = require('./lib/createShape');
 
 new CreateShape().init();
 
