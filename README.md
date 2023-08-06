@@ -1,17 +1,44 @@
-# OOP-AS-M10
-SVG Logo Maker
+# SVG Logo generator
+  ## Description
+  this node application allows users to quickly and easily make a logo. By running thsi application in your terminal, you will be prompted some question to customize your very own logo. After answering these questions this app will generate your very own .svg file containing a unique logo.
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for text
-THEN I can enter up to three characters
-WHEN I am prompted for the text color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I am prompted for a shape
-THEN I am presented with a list of shapes to choose from: circle, triangle, and square
-WHEN I am prompted for the shape's color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I have entered input for all the prompts
-THEN an SVG file is created named `logo.svg`
-AND the output text "Generated logo.svg" is printed in the command line
-WHEN I open the `logo.svg` file in a browser
-THEN I am shown a 300x200 pixel image that matches the criteria I entered
+  ## Table of Contents
+
+  * [Installation](#installation)
+
+  * [Usage](#usage)
+
+  * [License](#license)
+
+  * [Contributing](#contributing)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
+  ## Installation
+  ```
+  npm i
+  ```
+
+  ## Usage
+  run node index in your terminal to start answering questions. Once you are done answering all the questions you will find your .svg file in the examples folder.
+
+  ## License
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+
+  (https://opensource.org/licenses/MIT)
+
+  ## Contributing
+  This application is complete.
+
+  ## Tests
+  ```
+  npm run test
+  ```
+
+  ## Questions
+
+  If you have any questions about this project, please send me an email santosal2018@gmail.com. 
+  You can find more of my work at [santos-al](https://github.com/santos-al/).
+
